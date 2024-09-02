@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Artur Santo!
+# 👋 Hello, I'm Artur Santos!
 
 ## 💼 About Me
 I'm a passionate **Software Engineer** currently working at **Poatek**. With a strong background in software development and a keen interest in innovation, I strive to create impactful and efficient solutions.
